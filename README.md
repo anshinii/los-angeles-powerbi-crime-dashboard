@@ -38,7 +38,7 @@ The data was sourced from the website. Due to privacy and size constraints, raw 
 ## 📸 Screenshot
 
 ![Dashboard Screenshot](screenshots/powerbidashboard.png)
-![Dashboard_Screenshot](screenshots/powerbidashboard2.png)
+![Dashboard_Screenshot](screenshots/pb2.png)
 
 ---
 
